@@ -15,9 +15,9 @@ import (
 	"testing"
 	"time"
 
-	"gitee.com/millewill/wechatpay-go/core/consts"
-	"gitee.com/millewill/wechatpay-go/utils"
 	"github.com/agiledragon/gomonkey"
+	"github.com/millewill/wechatpay-go/core/consts"
+	"github.com/millewill/wechatpay-go/utils"
 	"github.com/stretchr/testify/require"
 )
 

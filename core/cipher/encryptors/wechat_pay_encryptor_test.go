@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"gitee.com/millewill/wechatpay-go/core"
-	"gitee.com/millewill/wechatpay-go/utils"
+	"github.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/utils"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

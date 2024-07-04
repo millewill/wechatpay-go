@@ -11,11 +11,11 @@ import (
 	"mime/multipart"
 	"net/http"
 
-	"gitee.com/millewill/wechatpay-go/core"
-	"gitee.com/millewill/wechatpay-go/core/auth"
-	"gitee.com/millewill/wechatpay-go/core/cipher"
-	"gitee.com/millewill/wechatpay-go/core/consts"
-	"gitee.com/millewill/wechatpay-go/core/option"
+	"github.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/core/auth"
+	"github.com/millewill/wechatpay-go/core/cipher"
+	"github.com/millewill/wechatpay-go/core/consts"
+	"github.com/millewill/wechatpay-go/core/option"
 )
 
 func ExampleNewClient_default() {

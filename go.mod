@@ -1,4 +1,4 @@
-module gitee.com/millewill/wechatpay-go
+module github.com/millewill/wechatpay-go
 
 go 1.16
 

@@ -16,9 +16,9 @@ import (
 	nethttp "net/http"
 	neturl "net/url"
 
-	"gitee.com/millewill/wechatpay-go/core"
-	"gitee.com/millewill/wechatpay-go/core/consts"
-	"gitee.com/millewill/wechatpay-go/services"
+	"github.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/core/consts"
+	"github.com/millewill/wechatpay-go/services"
 )
 
 type BillShipmentApiService services.Service

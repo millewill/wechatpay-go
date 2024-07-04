@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"strings"
 
-	"gitee.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/core"
 )
 
 // SHA256WithRSAVerifier SHA256WithRSA 数字签名验证器

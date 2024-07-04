@@ -7,10 +7,10 @@ import (
 	"crypto/rsa"
 	"fmt"
 
-	"gitee.com/millewill/wechatpay-go/core"
-	"gitee.com/millewill/wechatpay-go/core/auth/verifiers"
-	"gitee.com/millewill/wechatpay-go/core/downloader"
-	"gitee.com/millewill/wechatpay-go/core/option"
+	"github.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/core/auth/verifiers"
+	"github.com/millewill/wechatpay-go/core/downloader"
+	"github.com/millewill/wechatpay-go/core/option"
 )
 
 func ExampleNewCertificateDownloader_saveCert() {

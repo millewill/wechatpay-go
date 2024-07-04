@@ -7,14 +7,14 @@ import (
 	"crypto/rsa"
 	"crypto/x509"
 
-	"gitee.com/millewill/wechatpay-go/core"
-	"gitee.com/millewill/wechatpay-go/core/auth/signers"
-	"gitee.com/millewill/wechatpay-go/core/auth/validators"
-	"gitee.com/millewill/wechatpay-go/core/auth/verifiers"
-	"gitee.com/millewill/wechatpay-go/core/cipher/ciphers"
-	"gitee.com/millewill/wechatpay-go/core/cipher/decryptors"
-	"gitee.com/millewill/wechatpay-go/core/cipher/encryptors"
-	"gitee.com/millewill/wechatpay-go/core/downloader"
+	"github.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/core/auth/signers"
+	"github.com/millewill/wechatpay-go/core/auth/validators"
+	"github.com/millewill/wechatpay-go/core/auth/verifiers"
+	"github.com/millewill/wechatpay-go/core/cipher/ciphers"
+	"github.com/millewill/wechatpay-go/core/cipher/decryptors"
+	"github.com/millewill/wechatpay-go/core/cipher/encryptors"
+	"github.com/millewill/wechatpay-go/core/downloader"
 )
 
 type withAuthCipherOption struct{ settings core.DialSettings }

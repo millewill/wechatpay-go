@@ -6,7 +6,7 @@ import (
 	"context"
 	"crypto/x509"
 
-	"gitee.com/millewill/wechatpay-go/utils"
+	"github.com/millewill/wechatpay-go/utils"
 )
 
 // CertificateMap 最简单的证书获取器——证书Map

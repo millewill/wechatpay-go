@@ -15,10 +15,10 @@ import (
 	"log"
 	"time"
 
-	"gitee.com/millewill/wechatpay-go/core"
-	"gitee.com/millewill/wechatpay-go/core/option"
-	"gitee.com/millewill/wechatpay-go/services/wexinpayscoreparking"
-	"gitee.com/millewill/wechatpay-go/utils"
+	"github.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/core/option"
+	"github.com/millewill/wechatpay-go/services/wexinpayscoreparking"
+	"github.com/millewill/wechatpay-go/utils"
 )
 
 func ExampleParkingsApiService_CreateParking() {

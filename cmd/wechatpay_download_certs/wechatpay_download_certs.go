@@ -10,10 +10,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"gitee.com/millewill/wechatpay-go/core"
-	"gitee.com/millewill/wechatpay-go/core/downloader"
-	"gitee.com/millewill/wechatpay-go/core/option"
-	"gitee.com/millewill/wechatpay-go/utils"
+	"github.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/core/downloader"
+	"github.com/millewill/wechatpay-go/core/option"
+	"github.com/millewill/wechatpay-go/utils"
 )
 
 var (

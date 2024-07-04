@@ -5,11 +5,11 @@ package verifiers
 import (
 	"context"
 	"crypto/x509"
-	"gitee.com/millewill/wechatpay-go/core/auth"
+	"github.com/millewill/wechatpay-go/core/auth"
 	"testing"
 
-	"gitee.com/millewill/wechatpay-go/core"
-	"gitee.com/millewill/wechatpay-go/utils"
+	"github.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/utils"
 )
 
 const (

@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"gitee.com/millewill/wechatpay-go/core/notify"
-	"gitee.com/millewill/wechatpay-go/services/payments"
+	"github.com/millewill/wechatpay-go/core/notify"
+	"github.com/millewill/wechatpay-go/services/payments"
 )
 
 func ExampleHandler_ParseNotifyRequest_transaction() {

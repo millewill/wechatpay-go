@@ -14,8 +14,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"gitee.com/millewill/wechatpay-go/core/auth"
-	"gitee.com/millewill/wechatpay-go/core/auth/validators"
+	"github.com/millewill/wechatpay-go/core/auth"
+	"github.com/millewill/wechatpay-go/core/auth/validators"
 )
 
 const rsaSignatureType = "WECHATPAY2-SHA256-RSA2048"

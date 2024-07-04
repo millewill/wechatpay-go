@@ -6,8 +6,8 @@ import (
 	"context"
 	"fmt"
 
-	"gitee.com/millewill/wechatpay-go/core"
-	"gitee.com/millewill/wechatpay-go/utils"
+	"github.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/utils"
 )
 
 // WechatPayEncryptor 微信支付字符串加密器

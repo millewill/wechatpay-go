@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"strings"
 
-	"gitee.com/millewill/wechatpay-go/core/auth"
-	"gitee.com/millewill/wechatpay-go/utils"
+	"github.com/millewill/wechatpay-go/core/auth"
+	"github.com/millewill/wechatpay-go/utils"
 )
 
 // SHA256WithRSASigner Sha256WithRSA 数字签名生成器

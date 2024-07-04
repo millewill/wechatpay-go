@@ -6,8 +6,8 @@ import (
 	"context"
 	"io"
 
-	"gitee.com/millewill/wechatpay-go/core"
-	"gitee.com/millewill/wechatpay-go/services"
+	"github.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/services"
 )
 
 // ImageUploadResponse 图片上传API返回结果

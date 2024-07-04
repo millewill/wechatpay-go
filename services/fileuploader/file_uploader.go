@@ -11,9 +11,9 @@ import (
 	"io/ioutil"
 	"mime/multipart"
 
-	"gitee.com/millewill/wechatpay-go/core"
-	"gitee.com/millewill/wechatpay-go/core/consts"
-	"gitee.com/millewill/wechatpay-go/services"
+	"github.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/core/consts"
+	"github.com/millewill/wechatpay-go/services"
 )
 
 // baseFileUploader 基础文件上传

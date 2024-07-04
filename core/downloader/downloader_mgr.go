@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"gitee.com/millewill/wechatpay-go/core"
-	"gitee.com/millewill/wechatpay-go/utils/task"
+	"github.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/utils/task"
 )
 
 const (

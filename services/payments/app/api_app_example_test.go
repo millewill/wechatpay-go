@@ -15,10 +15,10 @@ import (
 	"log"
 	"time"
 
-	"gitee.com/millewill/wechatpay-go/core"
-	"gitee.com/millewill/wechatpay-go/core/option"
-	"gitee.com/millewill/wechatpay-go/services/payments/app"
-	"gitee.com/millewill/wechatpay-go/utils"
+	"github.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/core/option"
+	"github.com/millewill/wechatpay-go/services/payments/app"
+	"github.com/millewill/wechatpay-go/utils"
 )
 
 func ExampleAppApiService_CloseOrder() {

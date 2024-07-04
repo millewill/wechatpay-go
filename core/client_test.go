@@ -24,12 +24,12 @@ import (
 	"testing"
 	"time"
 
-	"gitee.com/millewill/wechatpay-go/core"
-	"gitee.com/millewill/wechatpay-go/core/auth"
-	"gitee.com/millewill/wechatpay-go/core/auth/signers"
-	"gitee.com/millewill/wechatpay-go/core/auth/verifiers"
-	"gitee.com/millewill/wechatpay-go/core/option"
-	"gitee.com/millewill/wechatpay-go/utils"
+	"github.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/core/auth"
+	"github.com/millewill/wechatpay-go/core/auth/signers"
+	"github.com/millewill/wechatpay-go/core/auth/verifiers"
+	"github.com/millewill/wechatpay-go/core/option"
+	"github.com/millewill/wechatpay-go/utils"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

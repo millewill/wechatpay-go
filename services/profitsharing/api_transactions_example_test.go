@@ -14,10 +14,10 @@ import (
 	"context"
 	"log"
 
-	"gitee.com/millewill/wechatpay-go/core"
-	"gitee.com/millewill/wechatpay-go/core/option"
-	"gitee.com/millewill/wechatpay-go/services/profitsharing"
-	"gitee.com/millewill/wechatpay-go/utils"
+	"github.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/core/option"
+	"github.com/millewill/wechatpay-go/services/profitsharing"
+	"github.com/millewill/wechatpay-go/utils"
 )
 
 func ExampleTransactionsApiService_QueryOrderAmount() {

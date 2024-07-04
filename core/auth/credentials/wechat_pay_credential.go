@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"time"
 
-	"gitee.com/millewill/wechatpay-go/core/auth"
-	"gitee.com/millewill/wechatpay-go/core/consts"
-	"gitee.com/millewill/wechatpay-go/utils"
+	"github.com/millewill/wechatpay-go/core/auth"
+	"github.com/millewill/wechatpay-go/core/consts"
+	"github.com/millewill/wechatpay-go/utils"
 )
 
 // WechatPayCredentials 微信支付请求报文头 Authorization 信息生成器

@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"gitee.com/millewill/wechatpay-go/core/auth"
-	"gitee.com/millewill/wechatpay-go/core/consts"
+	"github.com/millewill/wechatpay-go/core/auth"
+	"github.com/millewill/wechatpay-go/core/consts"
 )
 
 type wechatPayValidator struct {

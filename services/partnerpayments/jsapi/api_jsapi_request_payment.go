@@ -3,8 +3,8 @@ package jsapi
 import (
 	"context"
 	"fmt"
-	"gitee.com/millewill/wechatpay-go/core"
-	"gitee.com/millewill/wechatpay-go/utils"
+	"github.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/utils"
 	"strconv"
 	"time"
 )

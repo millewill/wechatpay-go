@@ -15,7 +15,7 @@ import (
 
 	"github.com/agiledragon/gomonkey"
 
-	"gitee.com/millewill/wechatpay-go/core/consts"
+	"github.com/millewill/wechatpay-go/core/consts"
 	"github.com/stretchr/testify/assert"
 )
 

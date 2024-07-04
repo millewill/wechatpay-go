@@ -27,10 +27,10 @@ import (
 	"strings"
 	"time"
 
-	"gitee.com/millewill/wechatpay-go/core/auth"
-	"gitee.com/millewill/wechatpay-go/core/auth/credentials"
-	"gitee.com/millewill/wechatpay-go/core/cipher"
-	"gitee.com/millewill/wechatpay-go/core/consts"
+	"github.com/millewill/wechatpay-go/core/auth"
+	"github.com/millewill/wechatpay-go/core/auth/credentials"
+	"github.com/millewill/wechatpay-go/core/cipher"
+	"github.com/millewill/wechatpay-go/core/consts"
 )
 
 var (

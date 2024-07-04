@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"time"
 
-	"gitee.com/millewill/wechatpay-go/core"
-	"gitee.com/millewill/wechatpay-go/utils"
+	"github.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/utils"
 )
 
 // PrepayWithRequestPaymentResponse 预下单ID，并包含了调起支付的请求参数

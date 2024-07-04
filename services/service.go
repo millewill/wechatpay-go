@@ -4,7 +4,7 @@
 package services
 
 import (
-	"gitee.com/millewill/wechatpay-go/core"
+	"github.com/millewill/wechatpay-go/core"
 )
 
 // Service 微信支付 API v3 Go SDK 服务类型

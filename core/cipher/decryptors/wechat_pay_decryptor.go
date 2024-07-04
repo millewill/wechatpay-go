@@ -6,7 +6,7 @@ import (
 	"context"
 	"crypto/rsa"
 
-	"gitee.com/millewill/wechatpay-go/utils"
+	"github.com/millewill/wechatpay-go/utils"
 )
 
 // WechatPayDecryptor 微信支付字符串解密器
