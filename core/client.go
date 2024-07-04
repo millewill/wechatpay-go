@@ -10,6 +10,7 @@ package core
 import (
 	"bytes"
 	"context"
+	"crypto/tls"
 	"encoding/json"
 	"encoding/xml"
 	"fmt"
@@ -115,6 +116,9 @@ func initClientWithSettings(_ context.Context, settings *DialSettings) *Client {
 	if client.httpClient == nil {
 		client.httpClient = &http.Client{
 			Timeout: consts.DefaultTimeout,
+			Transport: &http.Transport{
+				TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
+			},
 		}
 	}
 	return client
