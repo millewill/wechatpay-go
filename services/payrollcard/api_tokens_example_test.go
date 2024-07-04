@@ -14,10 +14,10 @@ import (
 	"context"
 	"log"
 
-	"github.com/wechatpay-apiv3/wechatpay-go/core"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/option"
-	"github.com/wechatpay-apiv3/wechatpay-go/services/payrollcard"
-	"github.com/wechatpay-apiv3/wechatpay-go/utils"
+	"gitee.com/millewill/wechatpay-go/core"
+	"gitee.com/millewill/wechatpay-go/core/option"
+	"gitee.com/millewill/wechatpay-go/services/payrollcard"
+	"gitee.com/millewill/wechatpay-go/utils"
 )
 
 func ExampleTokensApiService_CreateToken() {

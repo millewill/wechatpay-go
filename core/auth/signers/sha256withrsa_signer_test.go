@@ -11,10 +11,10 @@ import (
 
 	"github.com/agiledragon/gomonkey"
 
+	"gitee.com/millewill/wechatpay-go/core/auth"
+	"gitee.com/millewill/wechatpay-go/utils"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/auth"
-	"github.com/wechatpay-apiv3/wechatpay-go/utils"
 )
 
 const (

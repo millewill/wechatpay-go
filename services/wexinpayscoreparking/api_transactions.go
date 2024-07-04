@@ -17,9 +17,9 @@ import (
 	neturl "net/url"
 	"strings"
 
-	"github.com/wechatpay-apiv3/wechatpay-go/core"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/consts"
-	"github.com/wechatpay-apiv3/wechatpay-go/services"
+	"gitee.com/millewill/wechatpay-go/core"
+	"gitee.com/millewill/wechatpay-go/core/consts"
+	"gitee.com/millewill/wechatpay-go/services"
 )
 
 type TransactionsApiService services.Service

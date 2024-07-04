@@ -7,13 +7,13 @@ import (
 	"crypto/x509"
 	"net/http"
 
-	"github.com/wechatpay-apiv3/wechatpay-go/core"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/auth"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/auth/signers"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/auth/validators"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/auth/verifiers"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/cipher"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/cipher/ciphers"
+	"gitee.com/millewill/wechatpay-go/core"
+	"gitee.com/millewill/wechatpay-go/core/auth"
+	"gitee.com/millewill/wechatpay-go/core/auth/signers"
+	"gitee.com/millewill/wechatpay-go/core/auth/validators"
+	"gitee.com/millewill/wechatpay-go/core/auth/verifiers"
+	"gitee.com/millewill/wechatpay-go/core/cipher"
+	"gitee.com/millewill/wechatpay-go/core/cipher/ciphers"
 )
 
 // region SignerOption

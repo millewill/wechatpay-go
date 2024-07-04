@@ -14,10 +14,10 @@ import (
 	"context"
 	"log"
 
-	"github.com/wechatpay-apiv3/wechatpay-go/core"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/option"
-	"github.com/wechatpay-apiv3/wechatpay-go/services/certificates"
-	"github.com/wechatpay-apiv3/wechatpay-go/utils"
+	"gitee.com/millewill/wechatpay-go/core"
+	"gitee.com/millewill/wechatpay-go/core/option"
+	"gitee.com/millewill/wechatpay-go/services/certificates"
+	"gitee.com/millewill/wechatpay-go/utils"
 )
 
 func ExampleCertificatesApiService_DownloadCertificates() {

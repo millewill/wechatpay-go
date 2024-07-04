@@ -9,12 +9,12 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/wechatpay-apiv3/wechatpay-go/core"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/auth/signers"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/auth/validators"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/auth/verifiers"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/consts"
-	"github.com/wechatpay-apiv3/wechatpay-go/utils"
+	"gitee.com/millewill/wechatpay-go/core"
+	"gitee.com/millewill/wechatpay-go/core/auth/signers"
+	"gitee.com/millewill/wechatpay-go/core/auth/validators"
+	"gitee.com/millewill/wechatpay-go/core/auth/verifiers"
+	"gitee.com/millewill/wechatpay-go/core/consts"
+	"gitee.com/millewill/wechatpay-go/utils"
 )
 
 // isSameCertificateMap Check if two CertificateMaps stores same certificates.
